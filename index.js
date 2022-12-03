@@ -9,7 +9,7 @@ let random = Math.round(Math.random()* 10);
 let num3 = 39, num4 = 5;
 let mod = num3 % num4;
 
-let max = Math.max(34, 22, 45, 67, 55, 2345, 5443);
+let max = Math.max(14, 16, 20, 6, 2, 0);
 
 console.log(multiply)
 
